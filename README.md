@@ -1,5 +1,4 @@
 # Slide-Curso-Origamid-JavaScript
-Slide do Curso JavaScript origamid
 
 Slide desenvolvido durante o curso de JavaScript da Origamid.
 
